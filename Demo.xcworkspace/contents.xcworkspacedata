@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../CJZImageKit/CJZImageKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../CJZCameraKit/CJZCameraKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:CJZCameraAImage.xcodeproj">
+   </FileRef>
+</Workspace>
